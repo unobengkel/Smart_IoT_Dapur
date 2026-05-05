@@ -34,7 +34,7 @@ Sistem ini didesain untuk mendeteksi bahaya kebakaran karena kelalaian pengguna.
    - `ArduinoJson` (Versi 6.x atau 7.x) oleh Benoit Blanchon
    - `UniversalTelegramBot` oleh Brian Lough
 3. **Konfigurasi Akun:**
-   - Buka file `src/setting.h`
+   - Buka file `main/setting.h`
    - Masukkan `WIFI_SSID` dan `WIFI_PASS`
    - Dapatkan `TELEGRAM_BOT_TOKEN` dari *BotFather* di Telegram.
    - Dapatkan `TELEGRAM_CHAT_ID` Anda (Bisa menggunakan bot *IDBot* di Telegram).
